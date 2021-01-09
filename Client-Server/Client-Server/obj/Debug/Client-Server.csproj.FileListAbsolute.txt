@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Client-Server\Client-Server\bin\Debug\Client-Server.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Client-Server\Client-Server\bin\Debug\Client-Server.exe
+c:\users\user\documents\visual studio 2015\Projects\Client-Server\Client-Server\bin\Debug\Client-Server.pdb
+c:\users\user\documents\visual studio 2015\Projects\Client-Server\Client-Server\obj\Debug\Client-Server.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Client-Server\Client-Server\obj\Debug\Client_Server.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Client-Server\Client-Server\obj\Debug\Client_Server.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Client-Server\Client-Server\obj\Debug\Client-Server.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Client-Server\Client-Server\obj\Debug\Client-Server.exe
+c:\users\user\documents\visual studio 2015\Projects\Client-Server\Client-Server\obj\Debug\Client-Server.pdb
